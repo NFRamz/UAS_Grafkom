@@ -39,6 +39,10 @@ Aplikasi ini adalah visualisasi objek 2D menggunakan Python dan OpenGL, mendukun
 
 ---
 
+<br>
+<br>
+<br>
+
 # 🧊 Modul B – Visualisasi Objek 3D Kubus
 
 Aplikasi ini adalah visualisasi interaktif objek 3D berupa **kubus**, dibuat dengan Python menggunakan **PyOpenGL** dan **Pygame**. Program ini mendukung **transformasi 3D** (translasi dan rotasi) serta simulasi pencahayaan menggunakan **shading dan lighting model** realistis (ambient, diffuse, specular).
