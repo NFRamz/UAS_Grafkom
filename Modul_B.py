@@ -3,6 +3,7 @@ from pygame.locals import *
 from OpenGL.GL import *
 from OpenGL.GLU import *
 
+
 titik_sudut = (
     (1, -1, -1),
     (1, 1, -1),
