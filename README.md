@@ -38,7 +38,7 @@ Aplikasi ini adalah visualisasi objek 2D menggunakan Python dan OpenGL, mendukun
 ## 🧠 Algoritma Clipping
 
 ### ✂️ Cohen-Sutherland (untuk Garis)
-- Menggunakan region code (bitwise) untuk mengevaluasi posisi titik terhadap window.
+- Menggunakan region code untuk mengevaluasi posisi titik terhadap window.
 - Efisien untuk 1 garis lurus.
 
 ### ✂️ Sutherland-Hodgman (untuk Poligon)
