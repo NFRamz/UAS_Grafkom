@@ -2,7 +2,7 @@
 <p align="center">
 •●•
 <p align="center">
-  <a href="https://github.com/NFRamz"><img src="https://readme-typing-svg.herokuapp.com?lines=Naufal+Ramzi+;NIM+202310370311026;Grafika+Komputer+4H+/Informatika;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/NFRamz"><img src="https://readme-typing-svg.herokuapp.com?lines=Naufal+Ramzi+;NIM+202310370311026;Grafika+Komputer+4H+-Informatika;&center=true&width=500&height=50"></a>
 </p>
 <br>
 
