@@ -62,7 +62,7 @@ Aplikasi ini adalah visualisasi interaktif objek 3D berupa **kubus**, dibuat den
 | Kategori                       | Tombol / Aksi                             | Fungsi                                   |
 |--------------------------------|-------------------------------------------|-------------------------------------------|
 | **Translasi (Gerak)**          | ← (kiri)/ (kanan)→ / (atas) ↑ / (bawah) ↓ | Geser kubus ke kiri / kanan / atas / bawah |
-|                                | `W` / `S`                                 | Geser kubus ke depan / belakang (zoom)   |
+| **Scale**                      | `W` / `S`                                 | W untuk Memperbesar / S untuk memperkecil   |
 | **Rotasi (Menggunakan Mouse)** | Klik kiri + drag                          | Rotasi kubus secara interaktif            |
 | **Keluar**                     | Klik tombol close (X)                     | Menutup aplikasi                         |
 
